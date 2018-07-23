@@ -1,3 +1,3 @@
-# lyft-points
+# HL-points
 
 Reward Management
